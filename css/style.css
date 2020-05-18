@@ -41,8 +41,7 @@ ul li a:hover {
     background:#525151;
     filter: alpha(opacity=100);
     -moz-opacity: 1;
-    opacity: 1;
-        
+    opacity: 1;        
 }
 
 #texto1, #texto2 {
@@ -61,7 +60,7 @@ ul li a:hover {
 }
 
 .secao-formulario {
-        height: 710px;    
+    height: 710px;    
 }
 
 .imagens{
@@ -119,8 +118,7 @@ h1 {
     background: #4472C4;
     height: 400px;
     width: 500px;
-    align-items: center;
-    
+    align-items: center;    
 }
 
 form {
@@ -129,8 +127,7 @@ form {
     height: 600px;
     background-color: #4472C4;
     position: relative;
-    margin: 50px auto 0 auto;
-    border-radius: 10px;     
+    margin: 50px auto 0 auto;      
     text-align: center;    
     padding: 30px;
     border: none;
@@ -153,26 +150,24 @@ form input {
     border:1px solid #000;
     padding: 10px;
     width: 500px;
-    border: none;
-    border-radius: 10px;
+    border: none;    
     box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
 }
 
 textarea {
     resize: none;
     width: 500px;
-    height: 100px;
-    border-radius: 10px;
+    height: 100px;    
     box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
 }
 
 button {
-    background-color: #ff0000;   
+    background-color: #2b2b2b;   
     border: none;
-    width: 60px;
-    height: 30px;
+    width: 80px;
+    height: 40px;
     margin-top: 20px;
-    
+    color: #f2f2f2    
 }
 
 .rodape {
@@ -181,6 +176,8 @@ button {
     text-align: center;
     padding: 10px;
 }
+
+
 
 
 
