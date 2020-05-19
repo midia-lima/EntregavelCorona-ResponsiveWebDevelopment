@@ -169,7 +169,9 @@ button {
     margin-top: 20px;
     color: #f2f2f2    
 }
-
+button:hover {
+    background: #00225c;
+}
 .rodape {
     height: 200px; 
     background: #4472C4;    
