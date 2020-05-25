@@ -25,11 +25,20 @@
 
     <main>
 
+        <div class="overlay">
+            <h1>PROBLEMA</h1>
+            <p>
+                Solidão é um sentimento no qual uma pessoa sente uma profunda sensação de vazio e isolamento. A solidão
+                é mais do que o sentimento de querer uma companhia ou querer realizar alguma atividade com outra pessoa
+                não porque simplesmente se isola, mas porque os seus sentimentos precisam de algo novo que as
+                transforme.
+            </p>
+        </div>
+
         <img class="imagens" src="./img/solidao.jpg" alt="" id="problema">
         <section class="secao">
             <div id="texto1">
                 <h1>PROBLEMA</h1><br>
-
                 <p>Foi decretado quarentena em todo Brasil, recomendado e solicitado para a população permanecer em
                     casa, fechar os comércios, evitar contato direto e algumas outras medidas de prevenção. O grupo de
                     risco é composto por portadores de doenças crônicas como: diabetes, hipertensão, asma, e idosos
@@ -42,7 +51,6 @@
                     sentem psicologicamente afetadas e ao grupo de risco (principalmente os idosos) a conversar com um
                     profissional sobre sua rotina, seus medos, incertezas e dúvidas.
                 </p>
-
                 <p>
                     Com base em pesquisas, é possível observar que os efeitos psicológicos do confinamento podem ser
                     severos para algumas pessoas. Podendo ocasionar, dentre outros fatores: estresse, desenvolvimento de
@@ -54,6 +62,17 @@
 
             </div>
         </section>
+
+        <div class="overlay1">
+            <h1>SOLUÇÃO</h1>
+            <p>
+                O público que utilizará o aplicativo serão pessoas que precisam de assistência médica
+                na área da psicologia e psiquiatria neste período de isolamento social, buscando ajudar e
+                auxiliar os pacientes no dia a dia, para que o isolamento não os impeça de manter a saúde
+                mental, possibilitando de terem um acompanhamento semanal ou quinzenal, e que não
+                possua mais que uma renda per capital por indivíduo na família.
+            </p>
+        </div>
 
         <img class="imagens" src="./img/solucao.jpg" alt="" id="solução">
         <section class="secao">
@@ -142,14 +161,18 @@
         <section class="secao-formulario">
             <h1>CONTATO</h1>
             <form>
-                <label>Nome: </label><br><br>
-                <input type="text" placeholder="Digite seu nome:"><br>
-                <label>Telefone: </label><br>
-                <input type="tel" placeholder="Digite seu telefone ou celular:" maxlength="11"><br>
-                <label>E-mail: </label><br>
-                <input type="email" placeholder="Digite seu E-mail:"><br>
-                <label>Mensagem: </label><br><br>
-                <textarea name="" id="" cols="30" rows="10"></textarea><br>
+                <label for="nome">Nome:</label><br><br>
+                <input type="text" placeholder="Digite seu nome:" id="nome" required><br>
+
+                <label for="tel">Telefone:</label><br>
+                <input type="tel" placeholder="Digite seu telefone ou celular:" id="tel" maxlength="11" required><br>
+
+                <label for="emailUser">E-mail:</label><br>
+                <input type="email" placeholder="Digite seu E-mail:" id="emailUser" required><br>
+
+                <label>Mensagem:</label><br><br>
+                <textarea name="" id="" cols="30" rows="10" required></textarea><br>
+
                 <button>Enviar</button>
             </form>
         </section>
