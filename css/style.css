@@ -136,8 +136,7 @@ form {
 }
 
 label {
-    font-family:'Open Sans', sans-serif;
-    
+    font-family:'Open Sans', sans-serif;    
 }
 
 input {
@@ -168,6 +167,7 @@ button {
     margin-top: 20px;
     color: #f2f2f2    
 }
+
 button:hover {
     background: #00225c;
 }
