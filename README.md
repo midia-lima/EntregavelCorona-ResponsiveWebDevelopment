@@ -1,4 +1,4 @@
-# Entregável Corona - Responsive Web Development
+<h1 align="center"> Entregável Corona - Responsive Web Development</h1>
 <h2>Descrição</h2>
 Projeto Corona da disciplina Responsive Web Development solicitado pelo professor Israel Marques Cajai Junior
 
