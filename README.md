@@ -1,6 +1,6 @@
 <h1 align="center"> Entregável Corona - Responsive Web Development</h1><br>
 <h2>:clipboard: Descrição</h2>
-Projeto Corona da disciplina <i>Responsive Web Development</i> solicitado pelo professor <i>Israel Marques Cajai Junior</i>
+Projeto Corona da disciplina <i>Responsive Web Development</i> solicitado pelo professor <i>Israel Marques Cajai Júnior</i>
 
 <h2>:computer: Tecnologias</h2>
 <p>As Tecnologias utilizadas nesse repósitorio são:<br><br>
