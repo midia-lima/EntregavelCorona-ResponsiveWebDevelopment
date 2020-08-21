@@ -17,5 +17,4 @@ git clone https://github.com/midia-lima/EntregavelCoronaResponsiveWebDevelopment
 <p>Para abrir os arquivos você pode utilizar o Bloco de Notas ou um Editor de Código Fonte como por exemplo: Visual Studio Code, Sublime Text ou Atom.</p>
 
 <h2>:link: Confira o Resultado</h2>
-https://midia-lima.github.io/EntregavelCoronaResponsiveWebDevelopment/
- 
+https://midia-lima.github.io/EntregavelCorona/
